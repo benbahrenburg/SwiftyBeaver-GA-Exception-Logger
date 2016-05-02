@@ -1,6 +1,14 @@
-# GA Beaver - Google Analytics plugin for SwiftyBeaver
+# Google Analytics for SwiftyBeaver 
 
+A Google Analytics plugin for the [SwiftyBeaver](https://swiftybeaver.com) logging platform
 
+## Usage
+
+## Installation
+
+### Dependencies
+
+### The Plugin itself
 
 ## Author
 
