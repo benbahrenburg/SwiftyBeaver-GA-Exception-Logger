@@ -3,7 +3,7 @@
 //  Journey
 //
 //  Created by Ben Bahrenburg on 5/2/16.
-//  Copyright © 2016 pwc.com. All rights reserved.
+//  Copyright © 2016 bencoding. All rights reserved.
 //
 
 import Foundation
