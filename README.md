@@ -1,6 +1,6 @@
-# Google Analytics for SwiftyBeaver 
+# SwiftyBeaver Google Analytics Exception Logger
 
-A Google Analytics plugin for the [SwiftyBeaver](https://swiftybeaver.com) logging platform
+A [SwiftyBeaver](https://swiftybeaver.com) plugin that logs to Google Analytics Exceptions
 
 ## Usage
 
