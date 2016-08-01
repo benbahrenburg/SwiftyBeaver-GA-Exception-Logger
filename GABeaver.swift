@@ -3,7 +3,7 @@
 //  Journey
 //
 //  Created by Ben Bahrenburg on 5/2/16.
-//  Copyright © 2016 bencoding. All rights reserved.
+//  Copyright © 2016 bencoding.com. All rights reserved.
 //
 
 import Foundation
@@ -12,7 +12,7 @@ import Google
 
 public class GABeaver: BaseDestination {
   
-    private let moduleID = 999
+    private let moduleID = 9998
     
     public var useNSLog = false
     public var Threshold: SwiftyBeaver.Level  = SwiftyBeaver.Level.Error
